@@ -1,5 +1,5 @@
 # code_refactor
-<h2 1st assignment for bootcamp>
+<h2> 1st assignment for bootcamp</h2>
 <ol>
 <p>Switched title from Website to Horiseon</p>
 <p>Added mobile viewing with meta tag</p>
